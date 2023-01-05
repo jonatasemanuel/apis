@@ -29,3 +29,4 @@ for submission_dict in submission_dicts:
     print(f'Title: {submission_dict["title"]}')
     print(f'Discussion link: {submission_dict["link"]}')
     print(f'Comments: {submission_dict["comments"]}')
+
